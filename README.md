@@ -1,7 +1,7 @@
 # Hello World! 👋🏻 
 
 - 🧑🏻‍💻 My name is Rohan :)
-- 🌏 I’m based on India!
+- 🌏 I’m based in India!
 - 🌱 I'm currently learning with Python.
 - 📧 How to reach me: ronniepradhan2000@gmail.com 
 - 🤝🏻 I can collaborate on small projects.  
