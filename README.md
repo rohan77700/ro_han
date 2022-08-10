@@ -3,6 +3,7 @@
 - 🧑🏻‍💻 My name is Rohan :)
 - 🌏 I’m based in India!
 - 🌱 I'm currently learning with Python HTML CSS JavaScript PHP.
+- 💻 My fields of interest are Web Development and Software Development.
 - 📧 How to reach me: ronniepradhan2000@gmail.com 
 - 🤝🏻 I can collaborate on small projects.  
 - ⚡ Fun fact: I enjoy listening to songs {K-Pop, Pop, R&B, Acoustic, Country} and gaming {Genshin Impact} and also digital arts/illustrations...
