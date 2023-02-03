@@ -1,6 +1,6 @@
 # Hello World! 👋🏻 
 
-- 🧑🏻‍💻 My name is Rohan :)
+- 🧑🏻‍💻 My name is Ro Han :)
 - 🌏 I’m based in India!
 - 🌱 I'm self-taught who's directing one's hopes or ambitions towards becoming a developer.
 - 💻 Web development is among my areas of expertise.
