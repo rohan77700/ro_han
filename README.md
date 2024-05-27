@@ -4,6 +4,7 @@
 - 🧑🏻‍💻 My name is Ro Han :)
 - 🌱 I'm self-taught who's directing one's hopes or ambitions towards becoming a developer.
 - 📧 How to reach me han.ro1904@gmail.com
+- Fun fact -> I do digital illustration, animation
 
 ### ⚙️ Skills
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/105499295/183480250-9fa20bca-5d89-4390-a309-e7fd30e063f7.png" width=40px height=40px></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://user-images.githubusercontent.com/105499295/183479459-59638df9-64b9-478b-9596-8a8d90b0d166.png" width=40px height=40px></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://user-images.githubusercontent.com/105499295/183479865-2a8a5087-460c-4bef-ac98-c568ed9d0a57.png" width=40px height=40px></a>   <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/105499295/183478667-6473644d-0082-4674-bd03-8b669201f7cf.jpg" width=40px height=40px></a>   <a href="https://www.php.net/docs.php"><img src="https://user-images.githubusercontent.com/105499295/183481291-3aece34e-aeb2-4409-a9bd-912423361c20.png" width=60px height=40px></a>
