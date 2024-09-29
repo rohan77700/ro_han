@@ -3,7 +3,7 @@
 
 - 🧑🏻‍💻 My name is Ro Han :)
 - 🌱 I'm self-taught who's directing one's hopes or ambitions towards becoming a developer.
-- Fun fact -> I do digital illustration, animation
+- Fun facts -> ’m deeply into digital sketching/illustration ✍🏻, animation 🎞️, playing the piano 🎹, and I’m an enthusiastic lover of K-Pop, K-R&B, R&B, alternative rock! 🎧🎶
 
 ### ⚙️ Skills
 [<img src="https://user-images.githubusercontent.com/105499295/183480250-9fa20bca-5d89-4390-a309-e7fd30e063f7.png" width=40px height=40px>](https://javascript.info/)
